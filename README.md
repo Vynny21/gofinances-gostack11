@@ -5,7 +5,7 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Diziano/gofinances?style=flat-square">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Diziano/gofinances?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/badge/languages-3-blue">
 
   <img alt="Repository size" src="https://img.shields.io/badge/repo%20size-2.21-informational">
 
