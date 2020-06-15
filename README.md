@@ -7,7 +7,7 @@
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Diziano/gofinances?style=flat-square">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Diziano/gofinances?style=flat-square">
+  <img alt="Repository size" src="https://img.shields.io/badge/repo%20size-2.21-informational">
 
   <a href="https://github.com/Diziano/gofinances/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Diziano/gofinances?style=flat-square">
