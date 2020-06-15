@@ -9,8 +9,8 @@
 
   <img alt="Repository size" src="https://img.shields.io/badge/repo%20size-2.21-informational">
 
-  <a href="https://github.com/Diziano/gofinances/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Diziano/gofinances?style=flat-square">
+  <a href="https://github.com/Vynny21/gofinances-gostack11/commits/dev">
+    <img alt="GitHub last commit" src="https://img.shields.io/badge/last%20commit-june-brightgreen">
   </a>
 
   <a href="https://github.com/Vynny21/gofinances-gostack11/issues">
