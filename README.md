@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Diziano/gofinances?style=flat-square">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/typescript-86.0-blue">
 
   <img alt="GitHub language count" src="https://img.shields.io/badge/languages-3-blue">
 
@@ -94,7 +94,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/diziano/gofinances.git
+    $ git clone https://github.com/Vynny21/gofinances-gostack11.git
 
     # Navegar para o diretório
     $ cd gofinances
