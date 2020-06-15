@@ -13,8 +13,8 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Diziano/gofinances?style=flat-square">
   </a>
 
-  <a href="https://github.com/Diziano/gofinances/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Diziano/gofinances?style=flat-square">
+  <a href="https://github.com/Vynny21/gofinances-gostack11/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Vynny21/gofinances-gostack11">
   </a>
 
   <img alt="GitHub" src="https://img.shields.io/github/license/Vynny21/gofinances-gostack11">
