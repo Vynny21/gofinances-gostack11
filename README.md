@@ -17,7 +17,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Diziano/gofinances?style=flat-square">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/Diziano/gofinances?style=flat-square">
+  <img alt="GitHub" src="https://img.shields.io/github/license/Vynny21/gofinances-gostack11">
 </p>
 
 <br/>
